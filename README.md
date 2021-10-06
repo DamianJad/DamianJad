@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DamianJad
 - 👀 I’m interested in Data Science, Machine Learning, AI
-- 🌱 I’m currently learning Data processing, Data scraping, ETL, Machine Learning, TensorFlow
+- 🌱 I’m currently learning Data processing, Data scraping, ETL, Machine Learning, TensorFlow, and GIT of course.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/damian-jadczak/)
 
 <!---
